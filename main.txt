@@ -1,2 +1,4 @@
 You can download docker image form
 https://hub.docker.com/r/danialemamian/sudo-privilege
+run image with :
+docker run -it -p 2200:20 <docker_image_name>
