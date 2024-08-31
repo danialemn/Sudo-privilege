@@ -1,0 +1,2 @@
+You can download docker image form
+https://hub.docker.com/r/danialemamian/sudo-privilege
