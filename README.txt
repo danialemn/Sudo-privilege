@@ -16,7 +16,7 @@ Step 5:
 now you access to machine as ubuntu user.
 if you go to home directory , you can see we have two user => ubuntu , user
 run sudo -l command to see privilege.
-oh! you cant :>
+Oh! You don't have permission :>
 Now, you need to find the user password and login with it.
 Search the regular folders... you will find it.
 go to /var/www/html/user
